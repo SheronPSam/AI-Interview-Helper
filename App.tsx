@@ -305,7 +305,7 @@ const App: React.FC = () => {
   return (
     <div className="flex flex-col h-screen bg-gray-900 font-sans">
       <header className="p-4 border-b border-gray-700 shadow-lg text-center">
-        <h1 className="text-2xl font-bold text-white tracking-wider">AI Interview Candidate: Garry David</h1>
+        <h1 className="text-2xl font-bold text-white tracking-wider">AI Interview Candidate: Sheron P Sam</h1>
         <p className="text-sm text-gray-400">You are the interviewer. Powered by Gemini 2.5 Native Audio</p>
       </header>
       
@@ -315,7 +315,7 @@ const App: React.FC = () => {
                 <div className="max-w-md">
                     <h2 className="text-3xl font-bold text-white mb-2">Start the Interview</h2>
                     <p className="text-gray-400 mb-6">
-                        You are the interviewer. When you're ready, click "Start Interview" below to begin your conversation with Garry David (the AI). Ask him questions about the experience listed on his resume.
+                        You are the interviewer. When you're ready, click "Start Interview" below to begin your conversation with Sheron P sam (the AI). Ask him questions about the experience listed on his resume.
                     </p>
                 </div>
             </div>
